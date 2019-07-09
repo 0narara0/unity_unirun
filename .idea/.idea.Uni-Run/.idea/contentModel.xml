@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\miyoung\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\miyoung\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Uni-Run.-1507369644.00" t="ExcludeRecursive" />
+    <e p="C:\Users\miyoung\UnityProjects\Uni-Run" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Font" t="Include">
+          <e p="License.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackgroundLoop.cs" t="Include" />
+          <e p="ExitButton.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Platform.cs" t="Include" />
+          <e p="PlatformSpawner.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="RestartButton.cs" t="Include" />
+          <e p="ScrollingObject.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Uni-Run.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
